@@ -1,0 +1,19 @@
+{
+  "name": "webbserver",
+  "version": "1.0.0",
+  "description": "en webbserver till mitt projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jquery": "^3.6.3",
+    "socket.io": "^4.6.0"
+  }
+}
